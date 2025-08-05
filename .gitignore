@@ -1,3 +1,4 @@
+models/
 catboost_info/
 sample_submission.csv
 test.csv
