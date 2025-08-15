@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/olive/desktop/projects/kaggle/kaggle_playground_5-8/new_fortransformers/mlruns/486722248615155264/9017ae317d074160a3033286e7017325/artifacts
+end_time: 1755272473485
+entry_point_name: ''
+experiment_id: '486722248615155264'
+lifecycle_stage: active
+run_id: 9017ae317d074160a3033286e7017325
+run_name: stageA_xgb_seed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755272473409
+status: 3
+tags: []
+user_id: olive
