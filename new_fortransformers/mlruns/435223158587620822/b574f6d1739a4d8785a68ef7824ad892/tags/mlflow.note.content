@@ -1,0 +1,1 @@
+Simple xgb model, 12 runs on optuna, with wider search spaceI removed standard scalar on numerical features and one-hot encoder on categorical features.

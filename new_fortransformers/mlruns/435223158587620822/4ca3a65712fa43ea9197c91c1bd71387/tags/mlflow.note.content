@@ -1,0 +1,1 @@
+Simple xgb model, 12 runs on optuna, with wider search spaceI removed standard scalar on numerical features. Now have rare encoder transformer. Made it such that dataframe only has 44 columns down from 54 when we one hot encoded everything.

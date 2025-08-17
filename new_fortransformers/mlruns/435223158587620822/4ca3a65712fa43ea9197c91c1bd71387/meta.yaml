@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/olive/desktop/projects/kaggle/kaggle_playground_5-8/new_fortransformers/mlruns/435223158587620822/4ca3a65712fa43ea9197c91c1bd71387/artifacts
+end_time: 1755436260658
+entry_point_name: ''
+experiment_id: '435223158587620822'
+lifecycle_stage: active
+run_id: 4ca3a65712fa43ea9197c91c1bd71387
+run_name: transformed_pdays_rareencoder
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755436260335
+status: 3
+tags: []
+user_id: olive

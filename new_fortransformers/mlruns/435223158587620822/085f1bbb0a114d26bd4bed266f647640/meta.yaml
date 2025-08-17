@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/olive/desktop/projects/kaggle/kaggle_playground_5-8/new_fortransformers/mlruns/435223158587620822/085f1bbb0a114d26bd4bed266f647640/artifacts
+deleted_time: 1755424465743
 end_time: 1755273688920
 entry_point_name: ''
 experiment_id: '435223158587620822'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 085f1bbb0a114d26bd4bed266f647640
 run_name: stageA_xgb_seed42_MINE
 source_name: ''

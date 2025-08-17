@@ -1,0 +1,1 @@
+Simple xgb model, 10 runs on optuna.Pipeline has standard scalar on numerical features and one-hot encoder on categorical features.
